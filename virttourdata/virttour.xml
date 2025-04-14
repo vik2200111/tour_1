@@ -70,7 +70,7 @@
        latitude="0"
        longitude="0"
        heading="0"
-       thumburl="%FIRSTXML%/_1_10/thumbnail.jpg"
+       thumburl="../%FIRSTXML%/_1_10/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        haslocalsounds="false"
@@ -101,7 +101,7 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_1_10/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
+    <preview url="../%FIRSTXML%/_1_10/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
 
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512" devices="!androidstock|webgl">
